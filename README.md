@@ -1,5 +1,7 @@
 # image-compressor
 
+Первый варианта, без усложнений
+
 ## Запуск
 
 Нужно установить Jupyter notebook, python3 и pip потом:
